@@ -16,9 +16,9 @@ Each entry in the dataset includes the following attributes:
 Overall, the "Real Movies Dataset" is a valuable resource for researchers, analysts, and enthusiasts interested in exploring and studying the dynamics of the film industry, including trends in movie production, audience preferences, and financial performance.
 
 ## Project Statement
-1. Which movie has the highest income and which has the lowest?
-2. Which movie has the highest budget and which has the lowest?
-3. Who is the director that made the most movies?
+1. Top 10 movies which have the highest income and which have the lowest.
+2. Top 10 movies which have the highest budget and which have the lowest.
+3. Which directors have directed the most movies? (we are going to limit the results to Top  10)
 4. Which movie has the best income-budget ratio? Here we are gonna calculate the ROI(Return on Investment), find the highest ROI value in the list, and lastly find the movie name associated with the highest ROI value.
 
 
